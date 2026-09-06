@@ -1,18 +1,22 @@
-## Getting Started
+# 50/30/20 Financial Simulation
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A Java-based financial simulation designed to help users understand how they could manage their money. The user enters the amount of money they have, and the simulation provides recommendations for how much they could **save, spend, and invest**.
 
-## Folder Structure
+The project uses JavaFX to create an interactive graphical interface and present the financial information in an easy-to-understand way.
 
-The workspace contains two folders by default, where:
+### Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+* Enter the amount of money available
+* Calculate suggested amounts for spending, saving, and investing
+* Interactive JavaFX interface
+* Visualize how money could be divided between different categories
+* **Expense tracking feature currently in development**, allowing users to track their spending over time
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### Technologies Used
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+* Java
+* JavaFX
 
-## Dependency Management
+### What I Learned
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This project helped me develop my Java programming skills while learning how to build an interactive graphical user interface with JavaFX. I also gained experience designing calculations and logic that respond to user input and present the results in a useful way.
